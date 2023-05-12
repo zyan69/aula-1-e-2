@@ -1,11 +1,15 @@
  :root {
-    --cor-de-fundo: white;
+    --cor-de-fundo: #gray
 }
 
 body {
-    background-color: var(white);
+    background-color: var(--cor-de-fundo)
 }
 
  h1 { 
-   background-color: black;
+   background-color: #95f;
+ }
+
+ h2 {
+  background-color : #95f;
  }
