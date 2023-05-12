@@ -1,9 +1,5 @@
  :root {
-    --cor-de-fundo: #gray
-}
-
-body {
-    background-color: var(--cor-de-fundo)
+   background-color: aquamarine;
 }
 
  h1 { 
