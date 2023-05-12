@@ -1,0 +1,11 @@
+ :root {
+    background-color :white;
+}
+
+body {
+    background-color: var(white);
+}
+
+ h1 { 
+   background-color:black;
+ }
