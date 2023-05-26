@@ -1,5 +1,5 @@
 .cabecalho {
-    background-color: var(--fundo-menu);
+    background-color: var(rgb(80, 1, 90));
 }
 
 .cabecalho-titulo {
@@ -8,3 +8,39 @@
     padding: 12px;
     text-align: center;
 }
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: 'Comme', sans-serif;
+}
+header{
+    background-color: #221f49;
+    color: rgb(110, 100, 165);
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+    
+}
+.P.T.-imagem{  
+  width: 45%;
+  
+}
+    .P.T{
+      
+        background-image: linear-gradient(#210d7c,#800303);
+        color: azure;
+        display: flex;
+        justify-content: center;
+        }
+        .P.T.-texto-um{
+            font-size: 25px;
+           
+        }
+        .P.T.-texto{
+            font-size: 46px;
+        
+        }
+        
