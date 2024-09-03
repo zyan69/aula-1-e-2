@@ -6,41 +6,41 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual é a importância do rap na expressão cultural e social das comunidades urbanas?",
+        enunciado: "Qual é a principal característica do boto cor de rosa de acordo com o folclore brasileiro?",
         alternativas: [
             {
-                texto: "O rap serve como uma forma importante de expressão para comunidades urbanas, permitindo que os artistas abordem temas sociais, políticos e pessoais que refletem suas realidades e experiências.",
-                afirmacao: "O rap é frequentemente utilizado para abordar questões sociais e políticas, oferecendo uma plataforma para que os artistas expressem suas experiências e perspectivas, refletindo as realidades das comunidades urbanas"
+                texto: "Ele é conhecido por transformar-se em um homem encantador para seduzir mulheres.",
+                afirmacao: "No folclore, o boto cor de rosa é frequentemente descrito como um ser que se transforma em um homem atraente para seduzir mulheres, especialmente em festas à noite."
             },
             {
-                texto: "O rap teve um impacto significativo na indústria musical global, influenciando uma  ampla gama de gêneros e tendências culturais, e desempenhando um papel importante na popularização de novos estilos musicais e movimentos culturais..",
-                afirmacao: "O rap tem desempenhado um papel crucial na indústria musical global, influenciando outros gêneros e tendências culturais e ajudando a popularizar novos estilos e movimentos."
+                texto: "Ele é famoso por ser um protetor das crianças que brincam perto da água.",
+                afirmacao: "Embora o boto seja uma figura importante no folclore, a ideia de proteger crianças não é uma característica central associada a ele."
             }
         ]
     },
     {
-        enunciado: "Qual é o impacto do rap na indústria musical global e nas tendências culturais?",
+        enunciado: "Qual é a principal consequência de um encontro com o boto cor de rosa, segundo a tradição?",
         alternativas: [
             {
-                texto: "O rap teve um impacto significativo na indústria musical global, influenciando uma  ampla gama de gêneros e tendências culturais, e desempenhando um papel importante na popularização de novos estilos musicais e movimentos culturais..",
-                afirmacao: "O rap tem desempenhado um papel crucial na indústria musical global, influenciando outros gêneros e tendências culturais e ajudando a popularizar novos estilos e movimentos."
+                texto: "A mulher que encontra o boto pode engravidar e ter um filho com ele.",
+                afirmacao: "Segundo a lenda, uma mulher que tem um encontro com o boto pode engravidar e, às vezes, o boto desaparece depois do evento, deixando a mulher com um filho."
             },
             {
-                texto: "O rap tem um impacto limitado na indústria musical global e nas tendências culturais, sendo predominantemente uma forma de música local sem grande influência internacional.",
-                afirmacao: "O rap, na verdade, tem um impacto global significativo, influenciando a indústria musical e as tendências culturais em todo o mundo, ao invés de ser uma forma de música com impacto limitado."
+                texto: "A pessoa que encontra o boto ganha um desejo concedido.",
+                afirmacao: "No folclore, o boto não é conhecido por conceder desejos; seu papel é mais associado a encontros românticos e suas consequências."
             }
         ]
     },
     {
-        enunciado: "Qual é a relação entre o rap e o movimento cultural Hip-Hop?",
+        enunciado: "Qual é a origem das lendas sobre o boto cor de rosa na cultura amazônica?",
         alternativas: [
             {
-                texto: "O rap é um dos quatro pilares do movimento cultural Hip-Hop, que também inclui o breakdance, o graffiti e o DJing, e desempenha um papel fundamental na definição e evolução desse movimento cultural.  ",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "Elas surgiram como uma explicação para desaparecimentos e eventos misteriosos na comunidade ribeirinha.",
+                afirmacao: "As lendas do boto muitas vezes surgem como explicações para eventos misteriosos ou desaparecimentos inexplicáveis nas comunidades ribeirinhas da Amazônia."
             },
             {
-                texto: "O rap é uma forma de música independente que surgiu sem conexão com o movimento     cultural Hip-Hop, focando exclusivamente em sua própria evolução artística.",
-                afirmacao: "Na verdade, o rap surgiu como parte do movimento Hip-Hop e está intimamente relacionado a ele, influenciando e sendo influenciado pelos outros elementos do movimento."
+                texto: "Elas foram criadas para ensinar crianças sobre os perigos de nadar em águas profundas.",
+                afirmacao: "Embora a lenda possa ter algum valor educativo, o foco principal das histórias do boto não é especificamente ensinar sobre os perigos de nadar, mas sim sobre encontros românticos e consequências sociais."
             }
         ]
     },
